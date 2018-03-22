@@ -1,12 +1,3 @@
-/******************************************************
-Title:			matrix.h
-Author:			Jeong Yang
-Date Created:	2/15/2018
-Class:			CSCI 335 Spring 2018
-Professor:		Ioannis Stamos
-Purpose:		Assignment #1
-Description:	a simple basic implementation file for the Matrix Class
-******************************************************/
 // A simple basic implementation of a Matrix class
 
 #ifndef TEACH_CSCI335_MATRIX_H_

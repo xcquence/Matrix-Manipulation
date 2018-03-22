@@ -1,12 +1,3 @@
-/******************************************************
-Title:			matrix.cpp
-Author:			Jeong Yang
-Date Created:	2/15/2018
-Class:			CSCI 335 Spring 2018
-Professor:		Ioannis Stamos
-Purpose:		Assignment #1
-Description:	Implementation file for the Matrix Class
-******************************************************/
 #ifndef __MATRIX_CPP_
 #define __MATRIX_CPP_
 

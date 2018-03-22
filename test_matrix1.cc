@@ -1,12 +1,3 @@
-/******************************************************
-Title:			test_matrix1.cc
-Author:			Jeong Yang
-Date Created:	2/15/2018
-Class:			CSCI 335 Spring 2018
-Professor:		Ioannis Stamos
-Purpose:		Assignment #1
-Description:	Test File for Matrix class.
-******************************************************/
 // YOUR NAME HERE
 // Test file for assignment 1.
 
